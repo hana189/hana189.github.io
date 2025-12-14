@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hana189.github.io
+Sitemap: hana189.github.io
